@@ -25,6 +25,12 @@ import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 
+
+
+// XXX: Akira: just added some comments.
+// XXX: Here's a second line.
+
+
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
