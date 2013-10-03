@@ -28,7 +28,7 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 
 // Amelie: Here's another comment.
 // XXX: Akira: just added some comments.
-// XXX: Here's a (Amelie: And a comment within a comment! (Akira: Merge in 3rd comment.))) second line.
+// (Amelie: Is this generating conflicts? I used the pull command but everything went smoothly.): Here's a (Amelie: And a comment within a comment! (Akira: Merge in 3rd comment. (!)))) second line.
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
